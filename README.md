@@ -1,2 +1,0 @@
-# SOAPUI
-new git repo
